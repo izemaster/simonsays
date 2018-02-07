@@ -1,4 +1,4 @@
-  const niveles = 5;
+  const niveles = 15;
   let teclas = generarTeclas(niveles);
 
 
